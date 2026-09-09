@@ -32,7 +32,7 @@ CSTR/
  Clone the repository:
 
 ```
-git clone https://github.com/USERNAME/REPOSITORY.git
+git clone https://github.com/ali-cheshomi/CSTR.git
 cd REPOSITORY
 ```
 
