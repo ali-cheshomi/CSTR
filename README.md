@@ -213,7 +213,7 @@ license file [here](https://github.com/ali-cheshomi/CSTR/blob/main/LICENSE)
 
 ```
 Please make sure your changes are compatible with the project's
-[Apache License 2.0](https://github.com/ali-cheshomi/CSTR/blob/main/LICENSE).
+[Apache License 2.0]
 ```
 
  If this project is intended to be open source, adding a `LICENSE` file to the repository is recommended.
